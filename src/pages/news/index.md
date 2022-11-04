@@ -158,7 +158,7 @@ you!
 <div class='text-center col-xs-12 col-md-9 col-lg-7'>
 <div class='hero-block'>
 
-## Graphile Worker and Graphile Migrate updates
+## Graphile Worker new feature
 
 _2020-01-27_
 
