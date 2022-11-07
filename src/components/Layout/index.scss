@@ -896,18 +896,22 @@ h6 code {
 .postgraphile-graphs-requests-per-second,
 .postgraphile-graphs-memory-usage,
 .postgraphile-graphs-average-latency,
-.postgraphile-graphs-average-latency-label,
-.graphql-finland {
+.postgraphile-graphs-average-latency-label {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50% 20%;
   min-height: 240px;
 }
 
+.fosdem,
+.githubsponsors,
+.graphql-finland,
+.graphql-galaxy,
 .postgraphile-v4-4-contributions,
 .postgraphile-v4-5-explain,
+.reactiveconf,
 .starter-lightbulb,
-.graphql-finland {
+.virtual-conference {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50% 20%;
@@ -917,6 +921,10 @@ h6 code {
 
 .postgraphile-graphs-average-latency {
   background-image: url("../../../static/images/v4-average-latency.png");
+}
+
+.reactiveconf {
+  background-image: url("../../../static/images/news/reactiveconf.svg");
 }
 
 .postgraphile-graphs-average-latency-label {
@@ -932,8 +940,17 @@ h6 code {
 }
 
 /* News images */
+.fosdem {
+  background-image: url("../../../static/images/news/fosdem.svg");
+}
+.githubsponsors {
+  background-image: url("../../../static/images/news/undraw_appreciation_github.svg");
+}
 .graphql-finland {
   background-image: url("../../../static/images/news/graphqlfinland.svg");
+}
+.graphql-galaxy {
+  background-image: url("../../../static/images/news/galaxy.svg");
 }
 .postgraphile-v4-4-contributions {
   background-image: url("../../../static/images/undraw_developer_activity.png");
@@ -943,6 +960,9 @@ h6 code {
 }
 .starter-lightbulb {
   background-image: url("../../../static/images/undraw/lightbulb.png");
+}
+.virtual-conference {
+  background-image: url("../../../static/images/news/undraw_virtual_conference.svg");
 }
 
 /* Logos*/

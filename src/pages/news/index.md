@@ -259,7 +259,7 @@ you!
 
 </div>
 </div>
-<div class='text-center col-xs-12 col-md-3 col-lg-5 starter-lightbulb'>
+<div class='text-center col-xs-12 col-md-3 col-lg-5 graphql-galaxy'>
 </div>
 </div>
 
@@ -275,21 +275,21 @@ you!
 <div class='text-center col-xs-12 col-md-9 col-lg-7'>
 <div class='hero-block'>
 
-## GraphQL Summit
+## Apollo GraphQL Summit
 
 _2021-11-09_
 
-Graphile Starter has been released today; a new opinionated quick-start project
-which is designed to be built upon. Take your project idea and rapidly prototype
-it without having to think about session management, job queues, user
-registration system, testing or a design framework - all of that is included for
-you!
+Benjie teamed up with Ivan to give a virtual talk looking at the future of the
+GraphQL Specification. As long-standing community contributors to the GraphQL
+Specification Working Group, Ivan and Benjie presented highlights of the 2021
+GraphQL Specification release and an introduced some of the exciting new
+features currently working their way towards becoming part of the GraphQL Spec.
 
-[Read the Graphile Starter announcement](https://www.youtube.com/watch?v=yA2qHxSiPqM)
+[Watch the talk on YouTube](https://www.youtube.com/watch?v=yA2qHxSiPqM)
 
 </div>
 </div>
-<div class='text-center col-xs-12 col-md-3 col-lg-5 starter-lightbulb'>
+<div class='text-center col-xs-12 col-md-3 col-lg-5 virtual-conference'>
 </div>
 </div>
 
@@ -425,21 +425,25 @@ you!
 <div class='text-center col-xs-12 col-md-9 col-lg-7'>
 <div class='hero-block'>
 
-## GitHub Sponsors now available to Companies
+## GitHub Sponsors now available to companies
 
 _2020-12-08_
 
-Graphile Starter has been released today; a new opinionated quick-start project
-which is designed to be built upon. Take your project idea and rapidly prototype
-it without having to think about session management, job queues, user
-registration system, testing or a design framework - all of that is included for
-you!
+GitHub Sponsors is now available to companies. Many companies depend on open
+source every day, so it's crucial to invest back into that infrastructure which
+they have built their businesses upon. So starting today, companies can sponsor
+projects and developers through their existing billing with GitHub.
 
-[Read the Graphile Starter announcement](https://twitter.com/github/status/1336360282587881475?s=20&t=4DkKO1y5ZSQU-l5-0ptB8A)
+Sponsoring Graphile to pursue improvements that benefit all parties in the
+ecosystem, ensures the software remains relevant and something you'll be able to
+rely on for years to come.
+
+[Read the GitHub Sponsors announcement](https://github.com/sponsors)  
+[Join these companies and individuals already sponsoring the Graphile suite](https://www.graphile.org/sponsor/)
 
 </div>
 </div>
-<div class='text-center col-xs-12 col-md-3 col-lg-5 starter-lightbulb'>
+<div class='text-center col-xs-12 col-md-3 col-lg-5 githubsponsors'>
 </div>
 </div>
 
@@ -727,17 +731,21 @@ Other:
 
 _2020-02-01_
 
-Graphile Starter has been released today; a new opinionated quick-start project
-which is designed to be built upon. Take your project idea and rapidly prototype
-it without having to think about session management, job queues, user
-registration system, testing or a design framework - all of that is included for
-you!
+Benjie and Jem are excited to be representing the Graphile suite of tools at
+this years FOSDEM in Brussels. FOSDEM is Europe's largest community conference
+focussed on Open Source software, providing software developers and communities
+a place to meet, get in touch with other developers, find out about the latest
+developments in the free software world and attend talks and presentations on
+various topics from project leaders. The team had an amazing experience at
+FOSDEM in 2019 and are looking forward to meeting thousands of members of the
+open source community again. [Send us a message](https://discord.org/graphile)
+if you are going so we can arrange to meet!
 
-[Read the Graphile Starter announcement](/news/graphile-starter/)
+[More details on FOSDEM on their website](/news/graphile-starter/)
 
 </div>
 </div>
-<div class='text-center col-xs-12 col-md-3 col-lg-5 starter-lightbulb'>
+<div class='text-center col-xs-12 col-md-3 col-lg-5 fosdem'>
 </div>
 </div>
 
@@ -814,14 +822,19 @@ explain feature.
 
 _2019-11-04_
 
-Version 4.5 is here, and with it comes an enhanced Graph*i*QL with a query
-explain feature.
+Benjie and Jem travelled to Prague for
+[Reactive Conf](https://reactiveconf.com/) where Benjie gave the keynote on
+increasing velocity with GraphQL and Postgres. The talk focused on how the two
+tools can pair beautifully, leading to massively increased software development
+and delivery speed, faster APIs, fewer bugs and ultimately enabling a greater
+focus on delivering value on the frontend rather than maintaining three
+different layers of data models and associated logic on the backend.
 
-[Read more about the latest PostGraphile version here](https://www.youtube.com/watch?v=BNLcHlMn5X4)
+[View the talk on YouTube here](https://www.youtube.com/watch?v=BNLcHlMn5X4)
 
 </div>
 </div>
-<div class='text-center col-xs-12 col-md-3 col-lg-5 postgraphile-v4-5-explain'>
+<div class='text-center col-xs-12 col-md-3 col-lg-5 reactiveconf'>
 </div>
 </div>
 
@@ -904,7 +917,7 @@ on the important parts of your application. Topics covered included
 authorization, adhering to GraphQL best practices, embracing the power of
 PostgreSQL, and avoiding common pitfalls.
 
-[Talk Video](https://www.youtube.com/watch?v=XDOrhTXd4pE)
+[Find the talk video on YouTube here](https://www.youtube.com/watch?v=XDOrhTXd4pE)
 
 </div>
 </div>
