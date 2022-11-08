@@ -439,7 +439,7 @@ ecosystem, ensures the software remains relevant and something you'll be able to
 rely on for years to come.
 
 [Read the GitHub Sponsors announcement](https://github.com/sponsors)  
-[Join these companies and individuals already sponsoring the Graphile suite](https://www.graphile.org/sponsor/)
+[Join these companies and individuals already sponsoring the Graphile suite](/sponsor/)
 
 </div>
 </div>
